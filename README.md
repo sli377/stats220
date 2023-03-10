@@ -8,5 +8,5 @@
 2. Create a animation.
 * It is for myself.
 
-![Here is my project](https://sli377.github.io/stats220/)
+![Here is my repo](https://github.com/sli377/stats220)
 
