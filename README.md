@@ -1,7 +1,7 @@
 # stats220
 ## project 1
 
-1. Create a meme.
+1. **Create a meme.**
 *  It is about stats.
 *  It should be funny.
 
