@@ -1,5 +1,5 @@
 # stats220
-## **project 1**
+**## project 1**
 
 1. Create a meme.
 *  It is about stats.
